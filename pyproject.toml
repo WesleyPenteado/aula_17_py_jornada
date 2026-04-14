@@ -1,0 +1,16 @@
+[project]
+name = "aula-17-py-jornada"
+version = "0.1.0"
+description = "meu projeto de API"
+authors = [
+    {name = "WesleyPenteado",email = "wesleycosta.ne@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
